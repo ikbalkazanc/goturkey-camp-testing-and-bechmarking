@@ -1,0 +1,16 @@
+mode: set
+unit_test/basket/calculator.go:13.38,15.2 1 1
+unit_test/basket/calculator.go:17.43,19.2 1 1
+unit_test/basket/calculator.go:21.43,23.2 1 1
+unit_test/basket/calculator.go:25.49,27.2 1 0
+unit_test/basket/discount.go:13.77,18.2 1 1
+unit_test/basket/discount.go:20.68,21.26 1 1
+unit_test/basket/discount.go:25.2,25.23 1 1
+unit_test/basket/discount.go:29.2,29.67 1 1
+unit_test/basket/discount.go:21.26,23.3 1 1
+unit_test/basket/discount.go:25.23,27.3 1 1
+unit_test/basket/discount.go:32.74,34.26 1 1
+unit_test/basket/discount.go:38.2,40.24 2 1
+unit_test/basket/discount.go:44.2,44.67 1 1
+unit_test/basket/discount.go:34.26,36.3 1 1
+unit_test/basket/discount.go:40.24,42.3 1 1
